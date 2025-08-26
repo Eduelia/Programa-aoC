@@ -196,4 +196,5 @@ int main(){
         printf ("CARTA 2 VENCEU!\n");
     }
       return 0;
+      edu
 }
